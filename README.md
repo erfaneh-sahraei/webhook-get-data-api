@@ -15,5 +15,4 @@ A professional n8n automation project that turns your Google Sheet into a dynami
 ## 📂 Project Structure
 ```text
 ├── Google Sheets GET API Webhook.json  # n8n workflow export file
-├── sample-response.json                # Example JSON data returned by the API
 └── README.md                           # Project documentation
